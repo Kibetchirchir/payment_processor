@@ -1,0 +1,50 @@
+[28-Jun-2018 16:53:54 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ticketso/public_html/processor/index.php:27) in /home/ticketso/public_html/processor/index.php on line 50
+[28-Jun-2018 16:59:55 Africa/Nairobi] PHP Warning:  file_get_contents(https://tickets.ticketsoko.com/e/15/checkout/bad
+): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ticketso/public_html/processor/index.php on line 149
+[28-Jun-2018 17:18:56 Africa/Nairobi] PHP Warning:  file_get_contents(https://tickets.ticketsoko.com/e/15/checkout/bad
+): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ticketso/public_html/processor/index.php on line 149
+[28-Jun-2018 20:24:17 Africa/Nairobi] PHP Warning:  file_get_contents(https://tickets.ticketsoko.com/e/15/checkout/bad
+): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ticketso/public_html/processor/index.php on line 149
+[06-Jul-2018 21:17:26 Africa/Nairobi] PHP Warning:  file_get_contents(https://tickets.ticketsoko.com/e/15/checkout/bad
+): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ticketso/public_html/processor/index.php on line 149
+[20-Jul-2018 11:30:09 Africa/Nairobi] PHP Warning:  file_get_contents(https://ticketsoko.com/test_open_cart/index.php?route=checkout/checkout ): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ticketso/public_html/processor/index.php on line 149
+[20-Jul-2018 13:55:02 Africa/Nairobi] PHP Warning:  file_get_contents(https://ticketsoko.com/test_open_cart/index.php?route=extension/payment/begetway/callback1): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ticketso/public_html/processor/index.php on line 149
+[20-Jul-2018 14:56:46 Africa/Nairobi] PHP Warning:  file_get_contents(https://ticketsoko.com/test_open_cart/index.php?route=extension/payment/begetway/callback1): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ticketso/public_html/processor/index.php on line 149
+[20-Jul-2018 15:05:07 Africa/Nairobi] PHP Warning:  file_get_contents(https://ticketsoko.com/test_open_cart/index.php?route=extension/payment/begetway/callback1): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ticketso/public_html/processor/index.php on line 149
+[24-Jul-2018 10:51:47 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[24-Jul-2018 10:54:32 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[06-Aug-2018 12:36:13 Africa/Nairobi] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Aug-2018 12:37:14 Africa/Nairobi] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Aug-2018 16:11:26 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/ticketso/public_html/processor/index.php on line 669
+[11-Aug-2018 14:02:48 Africa/Nairobi] PHP Warning:  stream_context_create() expects parameter 1 to be array, string given in /home/ticketso/public_html/processor/fbbot.php on line 35
+[11-Aug-2018 14:02:49 Africa/Nairobi] PHP Warning:  file_get_contents(https://graph.facebook.com/v2.6/me/messages?access_token=EAAI2mBNgHKsBAG4j4giqjsK6jVRGytuCLxGGcr7VC4wuLh67zodNxKITlYgjLneVNBcGXZCvRR9ZCoo442qWqhUYEYxcSkzkRcf1KKlVgRL1Oq0ScZAkg1mstZBAEQCUa3vTcAMZCAf7MTEZAlfrMQZBu399V0gSzxLgyhWwVwrO5HTRoKRuHZABQvA9GwIMtpEZD, false, ): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ticketso/public_html/processor/fbbot.php on line 39
+[12-Aug-2018 12:13:34 Africa/Nairobi] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[12-Aug-2018 12:16:12 Africa/Nairobi] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Aug-2018 15:53:04 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[29-Aug-2018 15:13:56 Africa/Nairobi] PHP Warning:  stream_context_create() expects parameter 1 to be array, string given in /home/ticketso/public_html/processor/fbbot.php on line 35
+[29-Aug-2018 15:13:56 Africa/Nairobi] PHP Warning:  file_get_contents(https://graph.facebook.com/v2.6/me/messages?access_token=EAAI2mBNgHKsBAG4j4giqjsK6jVRGytuCLxGGcr7VC4wuLh67zodNxKITlYgjLneVNBcGXZCvRR9ZCoo442qWqhUYEYxcSkzkRcf1KKlVgRL1Oq0ScZAkg1mstZBAEQCUa3vTcAMZCAf7MTEZAlfrMQZBu399V0gSzxLgyhWwVwrO5HTRoKRuHZABQvA9GwIMtpEZD, false, ): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ticketso/public_html/processor/fbbot.php on line 39
+[04-Sep-2018 17:52:41 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[04-Sep-2018 17:52:46 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[04-Sep-2018 17:56:22 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[04-Sep-2018 23:06:10 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 09:16:45 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 09:16:50 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 14:01:13 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 14:02:28 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 14:08:28 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 17:25:21 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 17:25:29 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 18:55:19 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 18:56:54 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 18:59:17 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
+[05-Sep-2018 18:59:20 Africa/Nairobi] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/ticketso/public_html/processor/index.php on line 53
